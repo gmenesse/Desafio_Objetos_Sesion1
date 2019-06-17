@@ -17,4 +17,4 @@ class Product2
 end
 
 #Generar nuevo catalogo a partir de catalogo anterior
-Product.new_file('catalogo.txt')
+Product2.new_file('catalogo.txt')
